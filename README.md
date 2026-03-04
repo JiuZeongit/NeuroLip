@@ -136,7 +136,7 @@ Inside DVSpeaker dataset, there are **50** subfolders named from **`1`** to **`5
 
 
 **Access to the DVSpeaker dataset:** 
-Download the [DVSpeaker Dataset Release Agreement] (link) then fill in it to send to contact email:  [junguangyao@link.cuhk.edu.cn](junguangyao@link.cuhk.edu.cn)
+Download the [DVSpeaker Dataset Release Agreement](https://github.com/JiuZeongit/NeuroLip/blob/main/ToyDataset/DVSpeakerDatasetReleaseAgreement.pdf) then fill in it to send to contact email:  [junguangyao@link.cuhk.edu.cn](junguangyao@link.cuhk.edu.cn)
 
 ---
 
