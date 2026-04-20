@@ -1,6 +1,6 @@
 # NeuroLip
 
-This is an official implementation of [NeuroLip: An Event-driven Spatiotemporal Learning Framework for Cross-Scene Lip-Motion-based Visual Speaker Recognition](doi link)
+This is an official implementation of [NeuroLip: An Event-driven Spatiotemporal Learning Framework for Cross-Scene Lip-Motion-based Visual Speaker Recognition](https://arxiv.org/abs/2604.15718)
 ---
 
 ## Installation
@@ -110,8 +110,6 @@ For each condition, we collected **100 valid samples per participant**.
 
 **Dataset Description:** 
 
-You can download DVSpeaker by link (dataset link)
-
 DVSpeaker folder layout:
 
 ```text
@@ -185,6 +183,13 @@ Additionally, if you want to reproduce the results reported in the NeuroLip pape
 If you find our work useful in your research, please cite:
 
 ```
-@InProceedings{
+@misc{yao2026neurolipeventdrivenspatiotemporallearning,
+      title={NeuroLip: An Event-driven Spatiotemporal Learning Framework for Cross-Scene Lip-Motion-based Visual Speaker Recognition}, 
+      author={Junguang Yao and Wenye Liu and Stjepan Picek and Yue Zheng},
+      year={2026},
+      eprint={2604.15718},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.15718}, 
 }
 ```
